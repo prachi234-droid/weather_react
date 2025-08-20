@@ -1,0 +1,19 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.card {
+  display: inline-block;
+  background: #f2f2f2;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  width: 250px;
+}
+
+.icon {
+  width: 80px;
+  height: 80px;
+}
